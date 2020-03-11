@@ -10,9 +10,26 @@ Introduction
 1.2 `Child Protection In Kenya (CP) <https://docs.google.com/presentation/d/e/2PACX-1vTbbIq2B4B2VzlzT_UBPLejnhjVY8nyTWPK-oUi3lKqPpw1c4eBkQUYsS8Xp-uM51hVfEs_ikVyoYE3/pub?start=false&loop=false&delayms=15000>`_
 *****
 
-2. `CPIMS System Documentation **WIP** <https://docs.google.com/document/d/e/2PACX-1vRLyelF_L8npDvTtpZV8g8FtRFqIiwyKSrX6iaxEIbiWoOH7U5jsuOkn6z60SdSsUYlVJpsjVCx6bQi/pub>`_
 
-3. `CPIMS FAQs **(WIP)** <https://docs.google.com/document/d/e/2PACX-1vQwYSiscLkeddFVcxW80pvM2b7oUUZEzJeI8GYoGPo_Na5CPb-UtrIieVOKcOs27kTtQ5NZLi6uHCUV/pub>`_
+*****
+2 `Child Protection Tools (Forms) <https://docs.google.com/presentation/d/e/2PACX-1vSGHqybcSdSv50vLOVna2W9gyGXpnbvKB6e54PqrIqUaYDtLqP6ZfNT7V__o_hma7D-ctRtHkRu9-f_/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+
+*****
+3 `Introduction to CPIMS (Introduction) <https://docs.google.com/presentation/d/e/2PACX-1vS1_ZvOBP1M83X0q9_NirlSZTgoo4RDh5t7VaGU1TQaPjrmV7H446Wv3Ny9yaSxiMyAcefxY7DXycRF/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+
+*****
+3.1  `CPIMS Overview (Overview) <https://docs.google.com/presentation/d/e/2PACX-1vTixYbS2vIZ49JQ7iohvqvoPYnSImwtpG4cwTCBPhaFgoV7j0Hsc6ac2DkjigPFkBaeOvHBU6vmqtRN/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+
+
+4. `CPIMS System Documentation **WIP** <https://docs.google.com/document/d/e/2PACX-1vRLyelF_L8npDvTtpZV8g8FtRFqIiwyKSrX6iaxEIbiWoOH7U5jsuOkn6z60SdSsUYlVJpsjVCx6bQi/pub>`_
+
+5. `CPIMS FAQs **(WIP)** <https://docs.google.com/document/d/e/2PACX-1vQwYSiscLkeddFVcxW80pvM2b7oUUZEzJeI8GYoGPo_Na5CPb-UtrIieVOKcOs27kTtQ5NZLi6uHCUV/pub>`_
 
 copyright DCS 2020
 ============
