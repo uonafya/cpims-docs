@@ -112,9 +112,30 @@ Introduction
 5.2.8 `OVC Registration - 6 Exits (Exits and Graduation) <https://docs.google.com/presentation/d/e/2PACX-1vSNAlHAn-tgxWey4hMk4xQ9VbzxJfJEjpwyXA9xJHZeggPYHg2cc5Hd-XgCx2GPPA/pub?start=false&loop=false&delayms=15000>`_
 *****
 
-6. `CPIMS System Documentation **WIP** <https://docs.google.com/document/d/e/2PACX-1vRLyelF_L8npDvTtpZV8g8FtRFqIiwyKSrX6iaxEIbiWoOH7U5jsuOkn6z60SdSsUYlVJpsjVCx6bQi/pub>`_
 
-7. `CPIMS FAQs **(WIP)** <https://docs.google.com/document/d/e/2PACX-1vQwYSiscLkeddFVcxW80pvM2b7oUUZEzJeI8GYoGPo_Na5CPb-UtrIieVOKcOs27kTtQ5NZLi6uHCUV/pub>`_
+6 CPIMS Reports (Reports)
+
+=======================
+
+
+7 CPIMS Data Quality (Data Quality)
+
+=======================
+
+
+8 CPIMS Indicators and Indicator Definitions (OVC Indicators)
+
+=======================
+
+
+
+9 CPIMS Case Categories (DCS Case Categories)
+
+=======================
+
+9. `CPIMS System Documentation **WIP** <https://docs.google.com/document/d/e/2PACX-1vRLyelF_L8npDvTtpZV8g8FtRFqIiwyKSrX6iaxEIbiWoOH7U5jsuOkn6z60SdSsUYlVJpsjVCx6bQi/pub>`_
+
+10. `CPIMS FAQs **(WIP)** <https://docs.google.com/document/d/e/2PACX-1vQwYSiscLkeddFVcxW80pvM2b7oUUZEzJeI8GYoGPo_Na5CPb-UtrIieVOKcOs27kTtQ5NZLi6uHCUV/pub>`_
 
 Copyright Department of Children Services 2020
 ============
