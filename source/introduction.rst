@@ -25,11 +25,28 @@ Introduction
 3.1  `CPIMS Overview (Overview) <https://docs.google.com/presentation/d/e/2PACX-1vTixYbS2vIZ49JQ7iohvqvoPYnSImwtpG4cwTCBPhaFgoV7j0Hsc6ac2DkjigPFkBaeOvHBU6vmqtRN/pub?start=false&loop=false&delayms=15000>`_
 *****
 
+*****
+4 `Registry (Registration of Organization Units and Persons) 
+
+*****
+
+*****
+4.1 `Registry - MetaData Management (MetaData) <https://docs.google.com/presentation/d/e/2PACX-1vR35cfDx4KY7jLbEGh2ndsEFGscnll6WghBAqAhc8hUtysoqBfqId4kcBoSbnnL_Q/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+*****
+4.2 `Registry - Organizations Units Registry (Registration of Organization Units) <https://docs.google.com/presentation/d/e/2PACX-1vRz0FWLpAbHdSzze42faK7np0NMBAUhFb9FOI1EWwMXBj54QlNsK06FkgvE-_BpueUrGMRnmZFYCAtj/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+*****
+4.3 `Registry - Persons Registry (Registration of Persons) <https://docs.google.com/presentation/d/e/2PACX-1vSa_y_SPhhrM3Zmo8STqMAcZNP9MPc2hcYNHtgmwRnntF-bimv8ZWiRYDAXLO24uP1itRIpL5CTyBco/pub?start=false&loop=false&delayms=15000>`_
+*****
 
 
-4. `CPIMS System Documentation **WIP** <https://docs.google.com/document/d/e/2PACX-1vRLyelF_L8npDvTtpZV8g8FtRFqIiwyKSrX6iaxEIbiWoOH7U5jsuOkn6z60SdSsUYlVJpsjVCx6bQi/pub>`_
 
-5. `CPIMS FAQs **(WIP)** <https://docs.google.com/document/d/e/2PACX-1vQwYSiscLkeddFVcxW80pvM2b7oUUZEzJeI8GYoGPo_Na5CPb-UtrIieVOKcOs27kTtQ5NZLi6uHCUV/pub>`_
+5. `CPIMS System Documentation **WIP** <https://docs.google.com/document/d/e/2PACX-1vRLyelF_L8npDvTtpZV8g8FtRFqIiwyKSrX6iaxEIbiWoOH7U5jsuOkn6z60SdSsUYlVJpsjVCx6bQi/pub>`_
+
+6. `CPIMS FAQs **(WIP)** <https://docs.google.com/document/d/e/2PACX-1vQwYSiscLkeddFVcxW80pvM2b7oUUZEzJeI8GYoGPo_Na5CPb-UtrIieVOKcOs27kTtQ5NZLi6uHCUV/pub>`_
 
 copyright DCS 2020
 ============
