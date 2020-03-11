@@ -71,9 +71,50 @@ Introduction
 5.2 OVC - Case Management (Case Planning and Service Provision)
 ########
 
-5. `CPIMS System Documentation **WIP** <https://docs.google.com/document/d/e/2PACX-1vRLyelF_L8npDvTtpZV8g8FtRFqIiwyKSrX6iaxEIbiWoOH7U5jsuOkn6z60SdSsUYlVJpsjVCx6bQi/pub>`_
+*****
+5.2.1 `OVC Case Management - 1a OVC Registration (Registration) <https://docs.google.com/presentation/d/e/2PACX-1vTzRhj9JYFHKsqEgGV1o6hNSr7GSkVCe8z5EruU24K1FEwQJNCV7wOV39VboELrzA/pub?start=false&loop=false&delayms=15000>`_
+*****
 
-6. `CPIMS FAQs **(WIP)** <https://docs.google.com/document/d/e/2PACX-1vQwYSiscLkeddFVcxW80pvM2b7oUUZEzJeI8GYoGPo_Na5CPb-UtrIieVOKcOs27kTtQ5NZLi6uHCUV/pub>`_
+*****
+5.2.2 `OVC Case Management - 1b OVC Edit (Edit OVC Registration Details) <https://docs.google.com/presentation/d/e/2PACX-1vRWoY7VEIK4DGH7Tuz7DeUUYp8-rlMXjgK__KczHYVpjBy8FdXGo9ad5jC82fG9MA/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+
+*****
+5.2.3 `OVC Case Management - 1c OVC Search (Searching an OVC) <https://docs.google.com/presentation/d/e/2PACX-1vTYtO-MQ2jRrt9SffCheBXH20oloYYmtm2BFyKRh5pKdchhdEfOXLnaISOSsvX71w/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+*****
+5.2.4 `OVC Case Management - 2a OVC Service Provision (Form 1 A) <https://docs.google.com/presentation/d/e/2PACX-1vTH-w2dpdSKQfgsIGF9PdrHF3nUPOKF1Myrfjrj85i3n_WYIOlWx7HAt2RHxp9twA/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+
+
+*****
+5.2.5 `OVC Case Management - 2b Caregiver Service Provision (Form 1 B) <https://docs.google.com/presentation/d/e/2PACX-1vRJVd7xLlTZc_H03zX9Ee0sp37Av0fRRBih4cyCyUOgp8-NIWmye6f1WRPLXv7Ujg/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+*****
+5.2.6 `OVC Case Management - 3 Case Management and Case Plans (Wellbeing, CPARA, Case Plan, Monitoring for Graduation) <https://docs.google.com/presentation/d/e/2PACX-1vTI2pT0uPUMabyiaPlw7jW2nHNid-Ep6paOk74PzTPc0pERoBX_a5_Yvlei6mfN0g/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+
+*****
+5.2.7 `OVC Case Management - 4 HIV Management (Risk Screening and HIV Management) <https://docs.google.com/presentation/d/e/2PACX-1vQykzzD5QyhK2biEto79muTpu3DXTFGHHhbJatHqkWLMkaUqr1S6vFx4QHhFfaLsg/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+
+*****
+5.2.8 `OVC Case Management - 5 Dreams (Dreams and Layering) <https://docs.google.com/presentation/d/e/2PACX-1vQmSNtgE8_Y3vjavffmgxPYZ_jXgMgamUv-fvH5EqHJzqpQL7xHLzjSCton21eATg/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+*****
+5.2.8 `OVC Registration - 6 Exits (Exits and Graduation) <https://docs.google.com/presentation/d/e/2PACX-1vSNAlHAn-tgxWey4hMk4xQ9VbzxJfJEjpwyXA9xJHZeggPYHg2cc5Hd-XgCx2GPPA/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+6. `CPIMS System Documentation **WIP** <https://docs.google.com/document/d/e/2PACX-1vRLyelF_L8npDvTtpZV8g8FtRFqIiwyKSrX6iaxEIbiWoOH7U5jsuOkn6z60SdSsUYlVJpsjVCx6bQi/pub>`_
+
+7. `CPIMS FAQs **(WIP)** <https://docs.google.com/document/d/e/2PACX-1vQwYSiscLkeddFVcxW80pvM2b7oUUZEzJeI8GYoGPo_Na5CPb-UtrIieVOKcOs27kTtQ5NZLi6uHCUV/pub>`_
 
 Copyright Department of Children Services 2020
 ============
