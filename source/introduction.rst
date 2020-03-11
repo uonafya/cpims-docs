@@ -25,7 +25,10 @@ Introduction
 3.1  `CPIMS Overview (Overview) <https://docs.google.com/presentation/d/e/2PACX-1vTixYbS2vIZ49JQ7iohvqvoPYnSImwtpG4cwTCBPhaFgoV7j0Hsc6ac2DkjigPFkBaeOvHBU6vmqtRN/pub?start=false&loop=false&delayms=15000>`_
 *****
 
+*****
+4 Registry (Registration of Organization Units and Persons)
 
+*****
 
 *****
 4.1 `Registry - MetaData Management (MetaData) <https://docs.google.com/presentation/d/e/2PACX-1vR35cfDx4KY7jLbEGh2ndsEFGscnll6WghBAqAhc8hUtysoqBfqId4kcBoSbnnL_Q/pub?start=false&loop=false&delayms=15000>`_
@@ -45,5 +48,5 @@ Introduction
 
 6. `CPIMS FAQs **(WIP)** <https://docs.google.com/document/d/e/2PACX-1vQwYSiscLkeddFVcxW80pvM2b7oUUZEzJeI8GYoGPo_Na5CPb-UtrIieVOKcOs27kTtQ5NZLi6uHCUV/pub>`_
 
-copyright DCS 2020
+Copyright Department of Children Services 2020
 ============
