@@ -43,6 +43,31 @@ Introduction
 *****
 
 
+5 Case Management (Interventions and Service Provision)
+=======================
+
+5.1 DCS - Case Management (Interventions)
+########
+*****
+5.1.1 `DCS Case Management - Managing Cases (CM) <https://docs.google.com/presentation/d/e/2PACX-1vS38D2ujt8PJGAUNShuBliOlTe1nTOQG4-xKoXUCg0KlSVdMBjvdQI3Q1pTG6TbgZ-257IF6rcj-zG2/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+*****
+5.1.2 `DCS Case Management - Institutional Placement and Follow Up (Institutions) <https://docs.google.com/presentation/d/e/2PACX-1vTGoCdjpLN0W1Di6IC1FTeGlohJKVn9pYipu3qN35nkSDFf9kPCyioQy53j4eQNWoH5aUrn8leuFo7C/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+
+
+*****
+5.1.2 `DCS Case Management - Alternative Family Care (AFC) <https://docs.google.com/presentation/d/e/2PACX-1vR1m_an6Xj2cKx_G-rML2U0w0UtNPhd_Bts--1FKWvlvLvTHdq9b3dlt4SDPCoisZxh4LdKy91dCBzy/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+*****
+5.1.3 `DCS Case Management - School and Bursary Management (Bursary) <https://docs.google.com/presentation/d/e/2PACX-1vSxn3Qrvi59nK6vW2aahgOw8wqEURRQOs_7PM8uBkm_jFa-2hdVNteWdRfOd9b5pN50Jufx2Z6Zi0kz/pub?start=false&loop=false&delayms=15000>`_
+*****
+
+5.2 OVC - Case Management (Case Planning and Service Provision)
+########
 
 5. `CPIMS System Documentation **WIP** <https://docs.google.com/document/d/e/2PACX-1vRLyelF_L8npDvTtpZV8g8FtRFqIiwyKSrX6iaxEIbiWoOH7U5jsuOkn6z60SdSsUYlVJpsjVCx6bQi/pub>`_
 
